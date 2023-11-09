@@ -1,0 +1,16 @@
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.ThongTinKhachHang.resources
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DangNhap.resources
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.HoaDon.resources
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DatPhong.resources
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.ThanhToan.resources
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Menu.resources
+C:\Tài liệu Kỳ II 2022-2023\Lập trình.net\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.DangKy.resources
